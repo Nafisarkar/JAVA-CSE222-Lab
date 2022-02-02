@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		String caracter = scan.nextLine();
+		
+		if(Character.isDigit(caracter.indexOf(0))) {
+			System.out.println(caracter.indexOf(0)+" is a Digit");
+		}
+		else if(Character.isAlphabetic(caracter.indexOf(0))) {
+			System.out.println(caracter.indexOf(0)+"is an vawel");
+		}
+		else {
+			
+		}
+		scan.close();
+	}
+
+}

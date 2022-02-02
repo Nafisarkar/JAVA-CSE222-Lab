@@ -1,0 +1,10 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("HI my name is Nafi");
+		System.out.println("Currently i am learning Java");
+
+	}
+
+}

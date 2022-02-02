@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int mark = scan.nextInt();
+		
+		if(mark>=100) System.out.println("Not Possible!");
+		else if(mark>=80 && mark<100) System.out.println("Grade: A+\nCGPA: 4\nRemarks:Outstanding");
+	    
+	}
+
+}
