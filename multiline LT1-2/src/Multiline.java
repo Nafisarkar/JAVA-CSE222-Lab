@@ -1,5 +1,5 @@
 
-public class Main {
+public class Multiline {
 
 	public static void main(String[] args) {
 		System.out.println("HI my name is Nafi");

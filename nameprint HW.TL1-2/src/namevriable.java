@@ -1,5 +1,5 @@
 
-public class Main {
+public class namevriable {
 
 	public static void main(String[] args) {
 		String name = "Shaon An Nafi";

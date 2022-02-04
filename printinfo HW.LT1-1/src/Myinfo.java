@@ -1,5 +1,5 @@
 
-public class Main {
+public class Myinfo {
 
 	public static void main(String[] args) {
 		System.out.println("NAME          :Shaon An Nafi");
