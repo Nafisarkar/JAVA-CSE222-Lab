@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Prime10 {
 	static boolean isPrime(int n) {
 		if (n <= 1)
 			return false;
