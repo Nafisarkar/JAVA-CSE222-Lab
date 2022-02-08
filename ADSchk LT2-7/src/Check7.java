@@ -16,10 +16,10 @@ public class Check7 {
 				char chk = Character.toLowerCase(caracter);
 				
 				if (chk == 'a' || chk == 'e' || chk == 'i' || chk == 'o' || chk == 'u') {
-					System.out.println(caracter + " is an Alphabet");
+					System.out.println(caracter + " is an Vowel");
 				} 
 				else {
-					System.out.println(caracter + " is an Vowel");
+					System.out.println(caracter + " is an Consonant");
 				}
 			} 
 			else {
