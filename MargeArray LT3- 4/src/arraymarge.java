@@ -28,6 +28,7 @@ public class arraymarge {
 		
 		
 		System.out.println(Arrays.toString(array_res));
+		scan.close();
 	}
 
 }
