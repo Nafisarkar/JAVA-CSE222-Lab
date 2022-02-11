@@ -20,5 +20,7 @@ public class Student {
         System.out.println("S1 Name: "+s1.name+" s1 Id: "+s1.id+" s1 CGPA: "+s1.cgpa);
         System.out.println("S1 Name: "+s2.name+" s1 Id: "+s2.id+" s1 CGPA: "+s2.cgpa);
 
+        scan.close();
     }
+    
 }

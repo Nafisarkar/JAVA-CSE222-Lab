@@ -18,6 +18,7 @@ public class Student {
         for(int i =0;i<2;i++){
             stdarray[i].displayRecord();
         }
+        scan.close();
     }
     public void insertRecord(String n,int i,double d){
         this.name = n;

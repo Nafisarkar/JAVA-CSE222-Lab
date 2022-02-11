@@ -27,6 +27,7 @@ public class Student {
             System.out.println("Details of Student number "+(i+1));
             array[i].displayRecord();
         }
+        scan.close();
     }
     public void insertRecord(String n,int i,double d){
         this.name = n;
