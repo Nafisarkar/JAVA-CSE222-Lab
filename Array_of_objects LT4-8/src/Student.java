@@ -35,7 +35,6 @@ public class Student {
         this.cpa = d;
     }
     public void displayRecord(){
-
         System.out.println("name : "+this.name);
         System.out.println("id : "+this.id);
         System.out.println("cgpa : "+this.cpa);
